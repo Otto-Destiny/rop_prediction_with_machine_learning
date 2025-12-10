@@ -99,7 +99,7 @@ The workflow comprises the following pipeline stages:
 
 | Model | Train R² | Test R² | RMSE   | MAE    |
 | ----- | -------- | ------- | ------ | ------ |
-| SVR   | 0.6856   | 0.6842  | 0.1093 | 0.0820 |
+| SVR   | 0.8856   | 0.8842  | 0.1093 | 0.0820 |
 | XGB   | 0.9871   | 0.9807  | 0.0270 | 0.0167 |
 
 The XGBoost model outperforms SVR significantly, capturing complex interactions between control variables (RPM, WOB) and dependent ROP outcomes.
