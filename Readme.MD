@@ -22,7 +22,7 @@ ROP is a complex function of mechanical energy transfer, bit-rock interaction, l
 
 ## Dataset Origin
 
-The dataset used consists of high-frequency surface log parameters from five field wells: **MIP3A, MIP3B, MIP5A, MIP5B, MIPSW**, acquired from a Nigerian onshore asset with diverse lithological sections. Parameters were recorded using rig surface sensors, MWD inputs, and AutoDriller setpoints.
+The dataset used consists of high-frequency surface log parameters from five field wells: **MIP3A, MIP3B, MIP5A, MIP5B, MIPSW**, which are open source datasets with diverse lithological sections. Parameters were recorded using rig surface sensors, MWD inputs, and AutoDriller setpoints.
 
 Each .csv file corresponds to one well and contains over 100 features including:
 
